@@ -3,3 +3,5 @@ RESOLUSI MUZAIN
 - Menyelesaikan belajar matematika
 - Menyelesaikan belajar kotlin
 - Belajar API
+- Belajar Front-end
+- Belajar Modeling
