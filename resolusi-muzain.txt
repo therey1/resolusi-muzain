@@ -1,7 +1,7 @@
 RESOLUSI MUZAIN
-- menyelesaikan belajar OOP
 - Menyelesaikan belajar matematika
 - Menyelesaikan belajar kotlin
 - Belajar API
 - Belajar Front-end
 - Belajar Modeling
+- merilis 1 aplikasi
