@@ -4,3 +4,4 @@ Rencana Pembuatan Aplikasi
    menawarkan aplikasi ke beberapa klub sepakbola lokal
 - Manajer Uang
   manajemen aplikasi sesuai kebutuhan pribadi, pemasukan, pengeluaran, pengingat pembayaran, peringatan pengeluaran
+  menawarkan aplikasi ke orang-orang terdekat, pedagang dan teman
