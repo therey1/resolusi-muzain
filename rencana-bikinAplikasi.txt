@@ -1,5 +1,6 @@
 Rencana Pembuatan Aplikasi
 - Football Tactical
    menyediakan pilihan berbagai formasi dan bisa digerakkan untuk memberikan instruksi
+   menawarkan aplikasi ke beberapa klub sepakbola lokal
 - Manajer Uang
   manajemen aplikasi sesuai kebutuhan pribadi, pemasukan, pengeluaran, pengingat pembayaran, peringatan pengeluaran
